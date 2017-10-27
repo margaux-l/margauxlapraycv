@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Meghan Wlodarczyk</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+   <!-- Mobile Specific Metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+   <link rel="stylesheet" href="css/style_jqmd.css" media="screen">
+   <link href="js/jquery-ui/jquery-ui.css" rel="stylesheet">
+   
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.ico" >
+
+      <!-- Java Script
+   ================================================== -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+   <script src="js/jquery-2.1.0.min.js"></script>
+   <script src="js/form.js"></script>
+   <script src="js/jquery.flexslider.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <!-- <script src="js/magnific-popup.js"></script> -->
+   <script src="js/init-test.js"></script>
+   <script src="js/jquery/jquery.js"></script>
+   <script src="js/jquery-ui/jquery-ui.min.js"></script>
+   <script src="js/jquery-module.js"></script>
+
+
+
+</head>
+
+<body>
+
+   <!-- Header
+   ================================================== -->
+   <header id="home">
+
+      <nav id="nav-wrap">
+
+         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+
+         <ul id="nav" class="nav">
+            <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+            <li><a class="smoothscroll" href="#about">About</a></li>
+	         <li><a class="smoothscroll" href="#resume">Resume</a></li>
+            <!--<li><a class="smoothscroll" href="#portfolio">Projets</a></li>-->
+            <li><a class="smoothscroll" href="#contact">Contact</a></li>
+         </ul> <!-- end #nav -->
+
+      </nav> <!-- end #nav-wrap -->
+
+      <div class="row banner">
+         <div class="banner-text">
+            <h1 class="responsive-headline">Meghan Wlodarczyk</h1>
+            <h3>Web Developer</h3>
+            <hr />
+            <ul class="social">
+               <li><a target="_blank" href="https://www.linkedin.com/in/meghan-wlo/"><i class="fa fa-linkedin"></i></a></li>
+			 <!--  <li><a target="_blank" href="http://www.viadeo.com/profile/00218ht4qb77rx5y"><i class="fa fa-vimeo-square"></i></a></li>-->
+            </ul>
+         </div>
+      </div>
+
+      <p class="scrolldown">
+         <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+      </p>
+
+   </header> <!-- Header End -->
+
+
+   <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/meg.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>About me</h2>
+
+            <p><!--Fraichement arrivée dans l'univers qu'est le développement je souhaite continuer mon cursus en alternance.
+               Continuer dans ce monde signifie pour moi d'apprendre chaque jour de nouvelles compétences. Mes expériences doivent être toutes plus instruisantes les unes que les autres.
+               -->After I obtained my Bachelor's Degree in France, I wanted to take one year to improve and practice my English. I spend one marvelous year in United States. I met so many different people and I traveled around the country, it was amazing. That's why I would like to continue my career in United States as a Web developer.
+                <br/>
+            </p>
+
+            <div class="row">
+
+               <div class="columns contact-details">
+
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Meghan Wlodarczyk</span><br/>
+						   <span><br/></span>
+                     <span>meghan.wlodarczyk@outlook.com</span>
+					   </p>
+
+               </div>
+
+               <div class="columns download">
+                  <p>
+                     <a href="http://meghanwlodarczyk.ovh/download/downloadcv.php?pdf=Resume_Meghan_Wlodarczyk.pdf" class="button"><i class="fa fa-download"></i>Download my Resume</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+   <!-- Resume Section
+   ================================================== -->
+   <section id="resume">
+
+      <!-- Education
+      ----------------------------------------------- -->
+      <div class="row education">
+
+         <div class="three columns header-col">
+            <h1><span>Education</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3><a target="_blank" href="#">ESGI</a></h3>
+                  <p class="info">Bachelor's Degree<span>&bull;</span> <em class="date">September 2015-2016</em></p>
+
+                  <p>
+                 Web Development : <a href="http://www.esgi.fr/ecole-informatique/programmes/bachelor-web.html"> Bachelor Web </a><br/>
+                  <p class="info">Projects :</p>
+                  - Annual project : Realization of an online video games tournament website (form, cookies, secure...)</br>
+                  - Security Web : Hack an application and explain how to secure it<br>
+                  - CMS Wordpress : Create a website on WordPress + create plug-in<br>
+                  - Github : Utilization of Github for all the projects<br>
+                  - Integration and responsive : HTML5, CSS3 and Bootstrap
+                  
+                  </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Education -->
+
+
+      <!-- Work
+      ----------------------------------------------- -->
+      <div class="row work">
+
+         <div class="three columns header-col">
+            <h1><span>Work</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3><a target="_blank" href="https://culturalcare.com/">Cultural Care Au pair</a></h3>
+                  <p class="info"> Au pair in the United States<span>&bull;</span> <em class="date">September 2016-2017</em></p>
+
+                  <p>
+                  - Practicing English - Fluent <br>
+                  - Family care assistant
+                  </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3><a target="_blank" href="http://www.daregal.fr/">Daregal</a></h3>
+                  <p class="info"> Web Developer<span>&bull;</span> <em class="date">September 2015-2016</em></p>
+
+                  <p>
+                  Missions :<br>
+                  - Maintenance and improvement of Web applications<br>
+                  - Supporting project development with Webmaster<br>
+                  - Experience with SAP tools (software, database)<br>
+
+                  </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3><a target="_blank" href="https://www.pagesjaunes.fr/pros/09030905">GPSA</a></h3>
+                  <p class="info"> Customer Service (HelpDesk)<span>&bull;</span> <em class="date">September 2013-2015</em></p>
+
+                  <p>
+					Missions: <br/>
+					- HelpDesk :<br/>
+                  - Intervention on the computer <br/>
+                  - Communication with the users<br/>
+                  - Taking care of the tickets with GLPI<br/>
+
+               - Designing and developing a web application for inventory <br/>
+               - Importing and exporting data from a file to a database (Talend)
+
+                  </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Work -->
+
+
+      <!-- Skills
+      ----------------------------------------------- -->
+      <div class="row skill">
+
+         <div class="three columns header-col">
+            <h1><span>Skills</span></h1>
+         </div>
+		 
+         <div class="nine columns main-col">
+
+		<!--	<h3>Systèmes & Réseaux</h3>
+				<div class="bars">
+
+				   <ul class="skills">
+						<li><span class="bar-expand adds"></span><em>Active Directory</em></li>
+						<li><span class="bar-expand cisco"></span><em>CISCO Router/Switch</em></li>
+						<li><span class="bar-expand dhcpdns"></span><em>DHCP & DNS</em></li>
+					</ul>
+
+				</div> end skill-bars -->
+
+
+			<br/><h3>Developement</h3>
+				<div class="bars">
+
+				   <ul class="skills"> 
+                  <li><span class="bar-expand html5"></span><em>HTML5</em></li>
+                  <li><span class="bar-expand css"></span><em>CSS3</em></li>
+                  <li><span class="bar-expand php"></span><em>PHP5</em></li>
+                  <li><span class="bar-expand sql"></span><em>SQL (MySQL, Oracle)</em></li>
+                  <li><span class="bar-expand javascript"></span><em>Javascript (Jquery)</em></li>
+                  <li><span class="bar-expand cms"></span><em>CMS (WordPress)</em></li>
+                  <li><span class="bar-expand git"></span><em>Git</em></li>
+                  <li><span class="bar-expand photoshop"></span><em>Photoshop / Illustrator</em></li>
+                  <li><span class="bar-expand java"></span><em>Java</em></li>
+					
+					</ul>
+
+				</div><!-- end skill-bars -->
+
+			</div> <!-- main-col end -->
+
+      </div> <!-- End skills -->
+
+   </section> <!-- Resume Section End-->
+
+
+   <!-- Works Section 
+   ================================================== -->
+   <!--
+  <section id="portfolio">
+      <div class="row">
+         <div class="twelve columns collapsed">
+            <h1>Mes Projets de PPE :</h1>
+            <h4> Inventaire du parc informatique : </h4>
+            Documentation : 
+            <a href="../cv/download/inventaire.rar" target="_blank"> Présentation du contexte et du projet d'inventaire </a>
+
+            <h4> Exportation et intégration de données : </h4>
+            Documentation : 
+            <a href="../cv/download/BAAC_BTS.rar" target="_blank"> Présentation du contexte et du projet d'extraction de données </a>
+         </div>
+      </div>
+   </section>-->
+
+
+   <!-- Contact Section
+   ================================================== -->
+   <section id="contact">
+
+         <div class="row section-head">
+
+            <div class="two columns header-col">
+
+         
+
+            </div>
+
+            <div class="ten columns">
+
+                  <h2 class="lead">Do you find my profile interesting? Contact me</h2>
+
+            </div>
+
+         </div>
+
+         <div class="row">
+
+            <div class="eight columns">
+               <div id="form-messages"></div>
+               <!-- Contact form -->
+               <form action="form.php" method="POST" id="form123" name="form123"">
+					<fieldset>
+
+                  <div>
+						   <label for="name">Name/Company<span class="required">*</span></label>
+						   <input required type="text" value="" size="35" id="name" name="name"/>
+                  </div>
+
+                  <div>
+						   <label for="email">Email <span class="required">*</span></label>
+						   <input required type="email" value="" size="35" id="email" name="email"/>
+                  </div>
+
+
+                  <div>
+                     <label for="message">Message <span class="required">*</span></label>
+                     <textarea required cols="50" rows="10" id="message" name="message"></textarea>
+                  </div>
+
+                  <div class="field">
+                     <label for="envoyer123"><span ></span></label>
+                     <button id="envoyer123" style='width:65%' type="submit">Send</button>
+                  </div>
+
+				     <!--
+				     <div>
+                     <label for="envoyer123"><span ></span></label>
+                     <input id="envoyer123" type="submit" value="Send" />
+                  </div>
+                  <button>Popup</button>
+                  <label for="envoyer123"><span ></span></label> 
+                  <input  class="jqmd_open" id="envoyer123" type="submit" value="Send" />
+                  <div class="jqmd_dialog-error" title="Form">
+                     <p><span></span>Please, fill in all blanks below. <br>Thank you</p>
+                  </div>
+                  <div class="jqmd_dialog-confirm" title="Form">
+                     <p><span></span>Thank you, the message has been sent.<br> I will contact you as soon as possible</p>
+                  </div>-->
+
+					</fieldset>
+				   </form> <!-- Form End -->
+
+    <div id="resultat">
+        <!-- Nous allons afficher un retour en jQuery au visiteur -->
+    </div>
+
+            </div>
+
+
+            <aside class="four columns footer-widgets">
+<!--
+               <div class="widget widget_contact">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1312.4945038887606!2d2.347740199999997!3d48.85842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1e54114bbf%3A0x57d9d54e2f657d28!2s41+Rue+de+Rivoli%2C+75001+Paris!5e0!3m2!1sfr!2sfr!4v1426673639851" width="400" height="450" frameborder="0" style="border:0"></iframe>				   </div>
+                  -->
+       
+
+                  <div class="widget widget_contact">
+                  <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC4C9Lyg_1qknfzbOxN70ReixGrz8gK4WM&q=Centreville" width="400" height="450" frameborder="0" style="border:0"></iframe>              </div>
+
+
+
+            </aside>
+
+      </div>
+
+   </section> <!-- Contact Section End-->
+
+
+   <!-- footer
+   ================================================== -->
+   <footer>
+
+      <div class="row">
+
+         <div class="twelve columns">
+
+            <ul class="social-links">
+			
+
+               <li><a target="_blank" href="https://www.linkedin.com/in/meghan-wlo/"><i class="fa fa-linkedin"></i></a></li>
+			   
+            </ul>
+
+            <ul class="copyright">
+               <li>&copy; Copyright 2017 Meghan Wlodarczyk</li>   
+            </ul>
+
+         </div>
+
+         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+
+      </div>
+
+   </footer> <!-- Footer End-->
+
+</body>
+</html>
