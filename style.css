@@ -201,6 +201,11 @@ padding-top: 0px;
 	color: white;
 }
 
+.contact-bloc {
+	background-color: rgb(138,160,173);
+	font-size: 20px;
+}
+
 
 #competences-info {
 	text-align: center;
